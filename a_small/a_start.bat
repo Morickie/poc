@@ -1,0 +1,1 @@
+cmd /k "cd /d D:\PocHouse\a_small\"

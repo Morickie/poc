@@ -1,0 +1,1 @@
+cmd /k "cd /d D:\PocHouse\S2\Struts2-Scan"

@@ -1,0 +1,1 @@
+cmd /k "cd D:/pochouse/OA/zhiyuan_oa/&&python main.py -h"

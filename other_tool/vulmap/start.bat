@@ -1,0 +1,1 @@
+cmd /k "cd /d D:\pochouse\other_tool\vulmap"

